@@ -11,15 +11,11 @@ This project entailed constructing a motivational poster that could be created f
 
 Objective: When the page loads, we should see a poster with a randomly selected image, title, and quote.
 
-![alt image: implementation of Iteration 0](https://recordit.co/l3jQwvO9E5)
-
 ### Iteration 1 - Switching Views
 Objectives:
    When a user clicks the "Make Your Own Poster" button, we should see the form, and the main poster should be hidden
    When a user clicks the "View Saved Posters" button, we should see the saved posters area, and the main poster should be hidden
    When a user clicks the "Nevermind, take me back!" or "Back to Main" buttons, we should only see the main poster section
-
-![alt image: implementation of Iteration 1](https://recordit.co/Ly4Zpf6QER)
 
 ### Iteration 2 -
 
@@ -32,8 +28,6 @@ When the save button is clicked, several things will happen:
     Change back to the main poster view (hiding the form view again)
     Display the newly created poster image, title, and quote in the main view
 
-![alt image: functionality of Iteration 2](https://recordit.co/YQ3bFHGXPG)
-
 ### Iteration 3 -
 Objectives:
 
@@ -42,13 +36,9 @@ Objectives:
     When a user clicks the "Show Saved Posters" button, we should see the saved posters section
     All the posters in the savedPosters array should be displayed in the saved posters grid section
 
-![alt image: functionality of Iteration 3](https://recordit.co/iTvlCBQHwf)
-
 ### Iteration 4 -
 Objectives:
 
 From the saved posters view, if a user double clicks a saved poster, it will be deleted
-
-![alt image: functionality of Iteration 4](https://recordit.co/NWO5fqkKuS)
 
 Project spec & rubric can be found [here](https://frontend.turing.io/projects/module-1/hang-in-there.html)
